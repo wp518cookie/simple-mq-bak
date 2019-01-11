@@ -15,7 +15,7 @@
 - 可采用白名单ip的形式来提升安全性
 
 ## 架构
-### client
+### client端
 #### producer
 - 提供简单易用的api（参考kakfa & rocketmq）
 - 提供一定的重试容错策略（使用retryable来实现）
